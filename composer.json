@@ -1,0 +1,19 @@
+{
+    "name": "aegeansea/memoryzip",
+    "description": "zip file in memory",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mjs",
+            "email": "mjs2198522@126.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mjs\\": "src/"
+        },
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
